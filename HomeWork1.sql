@@ -1,4 +1,4 @@
--- 1. Создайте таблицу с мобильными телефонами, используя графический интерфейс. 
+-- 1. Создайте таблицу с мобильными телефонами. 
 CREATE TABLE mobile_phones (
   id_mobile_phones int NOT NULL AUTO_INCREMENT,
   models_mobile_phones varchar(45) NOT NULL,
